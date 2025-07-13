@@ -30,7 +30,5 @@ public class Main {
         //Manuel (narrowing)
         double piSayisi = 3.14;
         int k = (int) piSayisi; // 3 olur.
-
-
     }
 }
